@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IOIORBG</string>
+    <string name="seekbar1_label">Red Intensity</string>
+    <string name="seekbar2_label">Blue Intensity</string>
+    <string name="seekbar3_label">Green Intensity</string>
+</resources>
